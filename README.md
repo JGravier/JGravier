@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Julie 👋
+I'm a Permanent Researcher in [ThéMA Research Lab](https://thema.univ-fcomte.fr/en/) (CNRS). I am a geographer and an archaeologist, and also work at the intersection with history and computer science through modelling approaches.
+
+More infos and contact:
+* 🏠 [personal website](https://jgravier.github.io/infos/)
+* 📫 julie dot gravier at cnrs dot fr
 
 <!--
 **JGravier/JGravier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
